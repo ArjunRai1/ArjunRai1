@@ -2,7 +2,7 @@
 
 I'm **Arjun Rai**, a passionate **Machine Learning** enthusiast dedicated to building scalable and reliable AI solutions.
 
-[![GitHub followers](https://img.shields.io/github/followers/ArjunRai1?label=Follow&style=social)](https://github.com/ArjunRai1)
+
 
 ## 🔭 Current Focus
 - Learning about designing and deploying scalable MLOps pipelines with Docker and CI/CD.
