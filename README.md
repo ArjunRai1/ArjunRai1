@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there 👋
+
+I'm **Arjun Rai**, a passionate **Machine Learning** enthusiast dedicated to building scalable and reliable AI solutions.
+
+[![GitHub followers](https://img.shields.io/github/followers/ArjunRai1?label=Follow&style=social)](https://github.com/ArjunRai1)
+
+## 🔭 Current Focus
+- Learning about designing and deploying scalable MLOps pipelines with Docker and CI/CD.
+- Implementing automated model monitoring and retraining workflows for production reliability.
+
+## 👯 Collaboration
+I’m looking to collaborate on:
+- Cutting-edge **Machine Learning** & **Deep Learning** research projects
+- **MLOps** initiatives to optimize production workflows
+- Open-source contributions in **Python**, **Machine Learning**, and **MLOps**
 
 
-**ArjunRai1/ArjunRai1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📫 Get in Touch
+- ✉️ [arjunrai2214@gmail.com](mailto:arjunrai2214@gmail.com)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+> *“The goal is to turn data into information, and information into insight.”*
 
